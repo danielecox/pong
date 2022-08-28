@@ -6,6 +6,6 @@ Dê seus primeiros passos no mundo do Javascript
 Aprenda a trabalhar com variáveis e funções
 Crie um jogo completo, com animações, controles, sons e placar
 Saiba como utilizar em seus projetos um código compartilhado no Github</H3>
-<video src='[your URL here](https://youtu.be/zh0Db03rNGs)' width=180/>
+<video src='https://youtu.be/zh0Db03rNGs' width=180/>
 
 </div>
