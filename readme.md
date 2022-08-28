@@ -6,5 +6,5 @@
 Aprenda a trabalhar com variáveis e funções, <br>
 Crie um jogo completo, com animações, controles, sons e placar, <br>
 Saiba como utilizar em seus projetos um código compartilhado no Github, <br>
-![](pong.gif)
+![Alt Text](https://github.com/danielecox/pong/blob/master/pong.gif)
 </div>
