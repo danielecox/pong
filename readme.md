@@ -6,8 +6,9 @@
 Variáveis e funções, <br>
 Jogo completo, com animações, controles, sons e placar, <br>
 Uso do Github para compartilhamento. <br>
-Usado o editor online p5js:
-https://editor.p5js.org/daniele.marighetti/sketches/O8pinJlHv
+Uso de P5JS, uma biblioteca JavaScript para codificação criativa. Uma coleção de código pré-escrito, ele nos fornece ferramentas que simplificam o processo de criação de visuais interativos com código no navegador da web.
+<a>https://editor.p5js.org<a>
+
 
 ![imagem-animada-jogo-pong-js](https://github.com/danielecox/pong/blob/master/pong.gif)
 </div>
